@@ -5,14 +5,20 @@ The pygame library is an open-source module for the Python programming language 
 COMPONENTS OF PYGAME ARE:
 
 (i)	Game loop and game state
+
 (ii)	Events
+
 (iii)	 Sprites
+
 (iv)	Sound
 
 GAME STATE AND GAME LOOP: Game state is simply a way of referring to a set of values for all the variables in a game program.
 Game loop also called as main loop is a loop where the code does three things:
+
 (i)	Handles events.
+
 (ii)	Updates the game state
+
 (iii)	 Draws the game state to the screen
 
 EVENTS: The main loop also has code that updates the game state based on which events have been created.
