@@ -3,6 +3,7 @@ The game is a side-scroller where the player controls a bird, attempting to fly 
 
 The pygame library is an open-source module for the Python programming language specifically intended to help you make games and other multimedia applications.
 COMPONENTS OF PYGAME ARE:
+
 (i)	Game loop and game state
 (ii)	Events
 (iii)	 Sprites
